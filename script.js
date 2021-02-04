@@ -1,10 +1,4 @@
-/* we are using oop
-represent the gameboard in an object
-store the input 'o' and 'x' in an array
-create private IEFE FUNCTIONS
-create a global function 
-logic that checks when game is over
- */
+
 const display = document.querySelector('.status')
 let gameActive = true
 let gameState = ["","","","","","","","",""]
